@@ -145,7 +145,7 @@ Please send email to idante@qq.com
 
 
 #################################################################
-                <!-- redis数据库 -->
+                
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-redis</artifactId>
